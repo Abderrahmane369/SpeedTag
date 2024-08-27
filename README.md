@@ -18,13 +18,13 @@ In Speed Tag, two players compete in a high-stakes game of cat and mouse across 
 
 ## Map Creation
 
-We've developed a custom map maker specifically for Speed Tag, allowing for the creation of unique and challenging environments. This tool will be made available to the community when we publish the game's repository, enabling players to design and share their own maps.
+I've developed a custom map maker specifically for Speed Tag, allowing for the creation of unique and challenging environments. This tool will be made available to the community when I publish the game's repository, enabling players to design and share their own maps.
 
 ## Development
 
-Speed Tag was created using a Phaser 3 template, providing a solid foundation for rapid development and easy expansion. We're actively working on enhancing the game, with online multiplayer support being our next major milestone.
+Speed Tag was created using a Phaser 3 template, providing a solid foundation for rapid development and easy expansion. I'm actively working on enhancing the game, with online multiplayer support being my next major milestone.
 
-Stay tuned for updates on the public release of our game repository, which will include the map maker tool and the core game code!
+Stay tuned for updates on the public release of my game repository, which will include the map maker tool and the core game code!
 
 ---
 
