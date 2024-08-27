@@ -1,0 +1,23 @@
+[
+    {
+        "name": "ground1",
+        "x": 100,
+        "y": 200,
+        "width": 300,
+        "height": 50
+    },
+    {
+        "name": "ground2",
+        "x": 400,
+        "y": 300,
+        "width": 300,
+        "height": 50
+    },
+    {
+        "name": "ground3",
+        "x": 400,
+        "y": 300,
+        "width": 300,
+        "height": 50
+    }
+]
